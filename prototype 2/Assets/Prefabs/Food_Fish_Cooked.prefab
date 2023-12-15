@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 46476105576808253}
   - component: {fileID: 5166461101265941670}
   - component: {fileID: -5624344332159994875}
+  - component: {fileID: 6553264239954345481}
   m_Layer: 0
   m_Name: Food_Fish_Cooked
   m_TagString: Untagged
@@ -108,3 +109,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a70049208e46b6145ac742ee79e25898, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!65 &6553264239954345481
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 46476105574836099}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.26173592, y: 0.13675982, z: 0.4304055}
+  m_Center: {x: 0, y: 0.111486286, z: 0.00342983}
